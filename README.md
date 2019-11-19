@@ -5,4 +5,6 @@ James, Jarid, William, and Nick
 
 Don't forget to pull before you push, we don't want to lose progress.
 
-This is William
+This is William.idea
+               out
+               src
